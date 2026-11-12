@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Galería de Arte</string>
+    <string name="anterior">Anterior</string>
+    <string name="siguiente">Siguiente</string>
+
+    <string name="titulo_obra_1">Las Meninas</string>
+    <string name="artista_obra_1">Diego Velázquez</string>
+    <string name="anio_obra_1">1656</string>
+    <string name="desc_obra_1">Pintura Las Meninas de Diego Velázquez</string>
+
+    <string name="titulo_obra_2">La Inmaculada Concepción de los Venerables</string>
+    <string name="artista_obra_2">Bartolomé Esteban Murillo</string>
+    <string name="anio_obra_2">1678</string>
+    <string name="desc_obra_2">Pintura La Inmaculada Concepción de los Venerables de Murillo</string>
+
+    <string name="titulo_obra_3">Saturno devorando a su hijo</string>
+    <string name="artista_obra_3">Francisco de Goya</string>
+    <string name="anio_obra_3">1823</string>
+    <string name="desc_obra_3">Pintura Saturno devorando a su hijo de Francisco de Goya</string>
+
+    <string name="titulo_obra_4">El Aquelarre</string>
+    <string name="artista_obra_4">Francisco de Goya</string>
+    <string name="anio_obra_4">1798</string>
+    <string name="desc_obra_4">Pintura El Aquelarre de Francisco de Goya</string>
+</resources>
